@@ -20,7 +20,7 @@ Smart contract to maintain a leaderboard on the Fluent devtnet. Players can subm
 
 ```
 git clone https://github.com/ira300/Leaderboard_Fluent
-cd Leaderboard_fluent_devnet1
+cd Leaderboard_Fluent
 ```
 ---
 
