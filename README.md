@@ -27,6 +27,7 @@ cd Leaderboard_Fluent
 ### 2. Install dependencies
 ```
 npm install
+npm install --save-dev hardhat
 ```
 
 ---
