@@ -28,6 +28,8 @@ cd Leaderboard_Fluent
 ```
 npm install
 npm install --save-dev hardhat
+npm install --save-dev @nomicfoundation/hardhat-verify
+
 ```
 
 ---
